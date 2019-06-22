@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "0e25e1a6-57a4-41f3-ab0f-53db1cd0bb7e",
+            "Value": {
+                "id": "f129dbc0-ccef-4d4e-88fd-a15f3e1df096",
+                "resourcePath": "sprites\\pared\\pared.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2153a653-6ccc-4922-8c8a-19ecb745e982",
             "Value": {
                 "id": "da3fb5a0-502a-4ff8-91b8-ba8e90a8858b",
                 "resourcePath": "views\\2153a653-6ccc-4922-8c8a-19ecb745e982.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2405fd63-9507-4149-ae3c-5382d308d52d",
+            "Value": {
+                "id": "8caf716d-3a02-41bd-b01d-ce467032818b",
+                "resourcePath": "sprites\\fumiko_caminando_izquierda\\fumiko_caminando_izquierda.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -71,6 +87,14 @@
             }
         },
         {
+            "Key": "2ca59594-9b9b-4dbc-b813-bd3294f7af53",
+            "Value": {
+                "id": "59f8e993-7650-4d1c-b5fb-83dc1bf1b07f",
+                "resourcePath": "sprites\\fumiko_caminando_derecha\\fumiko_caminando_derecha.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32d11cdd-46b9-4d63-b132-6cc8388c62b6",
             "Value": {
                 "id": "31fb645e-f5ed-4c2f-b0f3-99433ec33e22",
@@ -84,6 +108,14 @@
                 "id": "488de32b-1482-4b8f-b5f4-225af3284f92",
                 "resourcePath": "views\\3eb4f795-47e9-48cb-a7d1-61c32aeda90b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f49b4e2-f184-43e9-b025-299dbb426df0",
+            "Value": {
+                "id": "98da1c2b-5adc-4b44-8c58-717db63bab0a",
+                "resourcePath": "sprites\\objeto1\\objeto1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,11 +151,43 @@
             }
         },
         {
+            "Key": "7d3e55db-39b5-49cb-9768-e9b139f4a2af",
+            "Value": {
+                "id": "6a27f477-dd0b-4a6f-afa6-6629346c766a",
+                "resourcePath": "objects\\ob_pared\\ob_pared.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81b077cc-11bf-4964-9002-beb491d2130a",
+            "Value": {
+                "id": "760869c0-e155-450d-b720-cb3979b98938",
+                "resourcePath": "objects\\Fumiko\\Fumiko.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e6d7e75-669e-46f9-b1bf-ff4c3d04f1a9",
             "Value": {
                 "id": "6a9c4be0-47cb-4e48-99c2-c12e5ddd9f10",
                 "resourcePath": "views\\9e6d7e75-669e-46f9-b1bf-ff4c3d04f1a9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc67ea9c-804b-401a-b709-4cf3e150d313",
+            "Value": {
+                "id": "e7d38e2b-1cc7-4dc4-a7a2-c5149d070250",
+                "resourcePath": "sprites\\fumiko_caminando_arriba\\fumiko_caminando_arriba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc81433a-0be8-4d7d-a842-a939f9400725",
+            "Value": {
+                "id": "95a0ff41-2cb5-4115-8662-5adb60aa31a2",
+                "resourcePath": "sprites\\enemigo\\enemigo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -156,6 +220,14 @@
                 "id": "ccbc1a16-6e29-4103-9b15-13eb39e9b199",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d1364024-34e5-48eb-bfef-9589efd91c5f",
+            "Value": {
+                "id": "8cdeb47e-0735-4234-b07e-e13e2cf58f6f",
+                "resourcePath": "objects\\ob_enemigo\\ob_enemigo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
