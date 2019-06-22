@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "c466af57-b4a3-48a3-945b-ffd3fe70c793",
+            "Value": {
+                "id": "9d44771e-c74c-42b5-b9da-816c0b83c9ba",
+                "resourcePath": "sprites\\fumiko_caminan_abajo\\fumiko_caminan_abajo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ca654ddf-a72c-4ff2-adad-01ce6757a89a",
             "Value": {
                 "id": "e69b4046-3a26-44f0-9867-5cd4088a28e7",
